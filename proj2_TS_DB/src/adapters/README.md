@@ -1,3 +1,7 @@
+## Dupla:
+
+* **Gabriel Zadini Dourado Cunha** - RGA: 202426610030
+* **Arthur** - RGA:xxxxx 
 # Gerenciador de Compromissos (Trabalho 2)
 
 Este projeto é um sistema de agendamento de tarefas e compromissos que impede choques de horário (sobreposição). O sistema foi desenvolvido em **TypeScript** utilizando **SQLite** para persistência de dados, seguindo uma arquitetura em camadas (Core, Infra, Adapters).
@@ -16,5 +20,5 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/Gpanca00100/Gerenciador-de-compromissos.git](https://github.com/Gpanca00100/Gerenciador-de-compromissos.git)
+git clone https://github.com/Gpanca00100/Gerenciador-de-compromissos.git 
 cd Gerenciador-de-compromissos

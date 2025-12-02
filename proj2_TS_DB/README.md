@@ -1,7 +1,7 @@
 ## Dupla:
 
 * **Gabriel Zadini Dourado Cunha** - RGA: 202426610030
-* **Arthur** - RGA:xxxxx 
+* **Arthur Esse Borges Xavier de Lima e Melo** - RGA:202426610050 
 # Gerenciador de Compromissos (Trabalho 2)
 
 Este projeto é um sistema de agendamento de tarefas e compromissos que impede choques de horário (sobreposição). O sistema foi desenvolvido em **TypeScript** utilizando **SQLite** para persistência de dados, seguindo uma arquitetura em camadas (Core, Infra, Adapters).
